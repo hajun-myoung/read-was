@@ -6,7 +6,7 @@
 총 2명이 활동중이고, 운영팀 1명, 팀원 1명,  0명으로 구성되어 있습니다.
 - staff | 운영팀 : 1명
 
-  - `Leader` 명하준(@hajun_m)
+  - `Leader` 명하준(@hajun_myoung)
 
 - teammates | 팀원 : 1명
 
