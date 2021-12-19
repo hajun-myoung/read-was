@@ -10,11 +10,13 @@
 
 - teammates | 팀원 : 1명
 
+  - `teammate` 한도진
+
   - `teammate` 이민기
 
-- extra | 임시반 : 0명
+- extra | 임시팀 : 0명
 
-  - 해당없음
+  - 조새온
 
 - honoray member | 명예회원 : 0명
 
